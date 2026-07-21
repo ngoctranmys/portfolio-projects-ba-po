@@ -1,4 +1,4 @@
-# Hi there, I'm [Tên của bạn] 👋 
+# Hi there, I'm MICHELLE TRAN 👋 
 ### Business Analyst | Product Owner
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ngoc-tran-michelle)
