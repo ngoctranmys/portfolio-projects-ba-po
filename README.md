@@ -9,7 +9,7 @@
 ## 👤 About Me (Bio)
 
 - 🎯 **Role:** Business Analyst / Product Owner
-- 💡 **Passion:** Translating business problems and customer pain points into optimal software solutions; effectively bridging the gap between Stakeholders and Engineering teams (Dev/Design); continuously seeking new knowledge and fresh perspectives.
+- 💡 **Passion:** Translating business problems and customer pain points into optimal digital solutions; effectively bridging the gap between Stakeholders and Engineering teams (Dev/Design); continuously seeking new knowledge and fresh perspectives.
 - 📌 **Domains of Interest:** Customer Service, SaaS, LegalTech, FinTech
 - 🚀 **Key Strengths:** Logical thinking, technical documentation (BRD/SRS/User Stories), data analysis, and process modeling.
 
